@@ -1,4 +1,5 @@
-# 3D-Avatar-Rendering
+# 3D-vison-paper-summary
+
 This repo includes a self-collected paper list of my own, which may include:
 
 - Differential Rendering,
@@ -13,4 +14,4 @@ This repo includes a self-collected paper list of my own, which may include:
 
 - etc.
 
-It is based on my own appetite, which may not include all current work. Some may not be precisely categorized or complete, for which you can raise an issue, or send a pull request.
+It is based on my own appetite, which may not include all current work. Some category may not be complete, for which you can raise an issue, or send a pull request.
