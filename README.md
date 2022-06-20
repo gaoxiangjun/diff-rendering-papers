@@ -1,4 +1,4 @@
-# 3D-vison-paper-summary
+# diff-rendering-papers-summary
 
 This repo includes a self-collected paper list of my own, which may include:
 
